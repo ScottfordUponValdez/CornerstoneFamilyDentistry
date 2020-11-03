@@ -120,7 +120,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 /* Logo Controls */
 .logo img{
-	width: 400px;
+	width: 150px;
 	height: auto;
 }
 .contact {
